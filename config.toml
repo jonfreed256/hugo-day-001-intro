@@ -1,4 +1,4 @@
-baseURL = "https://jonfreed256.github.io/hugo-day-001-intro/"
+baseURL = "index.html"
 languageCode = "en-us"
 title = "Intro"
 theme = "stip"
