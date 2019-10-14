@@ -1,3 +1,19 @@
 baseURL = "https://jonfreed256.github.io/hugo-day-001-intro/"
 languageCode = "en-us"
 title = "Intro"
+theme = "stip"
+
+[Author]
+    name = "Jonathan Freed"
+    bio = "Driven to discover new perspectives and learn"
+
+[params]
+[[params.links]]
+    icon = "github"
+    title = "Github"
+    url = "https://github.com/jonfreed256/"
+[[params.links]]
+        icon = "linkedin"
+        title = "LinkedIn"
+        url = "https://www.linkedin.com/in/jonathanwfreed/"    
+
